@@ -17,8 +17,7 @@
 
 I'm a BCA student and full-stack developer who loves turning ideas into working products — from web platforms to AI-powered computer vision apps. I care about clean UI, solid architecture, and shipping things that actually work.
 
-- 🎓 Pursuing **BCA** at Vaisiri Institute of Management & Technology — CGPA **9.36/10**
-- 🏆 **1st Place – Tech Spark 2025** hackathon
+- 🎓 Pursuing **BCA** at Vaisiri Institute of Management & Technology 
 - 🧠 Building projects across **web dev, AI/ML, and computer vision**
 - 🌱 Currently exploring **Generative AI** and cloud deployment
 - 📍 Based in Tumkur, India
@@ -81,7 +80,6 @@ I'm a BCA student and full-stack developer who loves turning ideas into working 
 | 🤖 [**AI Face Recognition System**](https://github.com/deekshith-shivas/AI-powered-face-recognition-system) | Real-time face recognition for secure identification & attendance | Python · OpenCV · AI/ML |
 | ✋ [**Hand Gesture Hill Climbing Game**](https://github.com/deekshith-shivas/Hand-Gesture-Controlled-Car-Game) | Game controlled entirely via real-time hand gesture recognition | Python · OpenCV · MediaPipe |
 | 🏨 [**Hotel Billing System**](https://github.com/deekshith-shivas/HOTEL-BILLING) | Order processing, billing & payment management with a simple UI | Python · HTML · CSS |
-| 💰 [**Budget Buddy**](https://github.com/deekshith-shivas) | Personal finance tracker with expense analysis dashboard | React · AI Tools · Analytics |
 | 🌐 [**VIMTECH College Website**](https://github.com/deekshith-shivas/college-website) | Official college website with academic info, events & resources | HTML · CSS · JS · PHP |
 
 📌 *See [my portfolio](https://deekshithreddykh.netlify.app/) for live demos and screenshots.*
@@ -90,7 +88,6 @@ I'm a BCA student and full-stack developer who loves turning ideas into working 
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 **1st Place — Tech Spark 2025** hackathon
 - 🎤 Participant — Tech Summit 2025
 - 🌐 GDG (Google Developer Group) Visitor
 - 💻 12-hour Hackathon — SIT Tumkur College
