@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1B2A4A,50:2E6FDB,75:38BDF8,100:0F172A&height=230&section=header&text=K%20H%20DEEKSHITH%20REDDY&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%2F%20Computer%20Vision%20Builder&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1B2A4A,50:2E6FDB,75:38BDF8,100:0F172A&height=230&section=header&text=K%20H%20DEEKSHITH%20REDDY&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2E6FDB&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js;SQL+%7C+MongoDB+%7C+Git+%7C+GitHub;Learning+AI+%7C+Machine+Learning+%7C+Cybersecurity+%F0%9F%A7%A0;Building+Real-World+Projects+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG"/>
 
