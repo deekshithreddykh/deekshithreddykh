@@ -175,6 +175,6 @@ Academic information, departments, faculty, events & student resources.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1B2A4A,50:2E6FDB,75:38BDF8,100:0F172A&height=120&section=footer" width="100%"/>
 
-<i>⭐️ From <a href="https://github.com/deekshith-shivas">deekshith-shivas</a> — thanks for stopping by, let's connect!</i>
+<i>⭐️ From <a href="https://github.com/deekshithreddykh">deekshithreddykh</a> — thanks for stopping by, let's connect!</i>
 
 </div>
