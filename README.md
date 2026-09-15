@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1B2A4A,50:2E6FDB,75:38BDF8,100:0F172A&height=230&section=header&text=K%20H%20DEEKSHITH%20REDDY&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1B2A4A,50:2E6FDB,75:38BDF8,100:0F172A&height=230&section=header&text=K%20H%20DEEKSHITH%20REDDY&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Building%20with%20Machine%20Learning&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2E6FDB&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js;SQL+%7C+MongoDB+%7C+Git+%7C+GitHub;Learning+AI+%7C+Machine+Learning+%7C+Cybersecurity+%F0%9F%A7%A0;Building+Real-World+Projects+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2E6FDB&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Java+%7C+C;React+%7C+Node.js+%7C+PHP+%7C+SQL;Building+ML+Models+with+Python+%26+OpenCV+%F0%9F%A7%A0;Shipping+Real-World+Projects+%E2%9C%A8;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG"/>
 
 <br/>
 
@@ -18,7 +18,14 @@
 
 ## 🧭 About Me
 
-> Hi, I'm **K H Deekshith Reddy**, a Bachelor of Computer Applications (BCA) student at **Vaisiri Institute of Management & Technology**. I am passionate about learning, growing, and continuously improving myself while building a strong foundation for my future in technology.
+- 🎓 Pursuing a **Bachelor of Computer Applications (BCA)** at Vaisiri Institute of Management & Technology
+- 💻 Full stack developer working across **Python, JavaScript, and Java** ecosystems
+- 🤖 Currently building small **Machine Learning models** and exploring computer vision with **OpenCV**
+- 🌱 Sharpening skills in **AI, Cybersecurity, and system design**
+- 🚀 Focused on shipping real, end-to-end projects — not just tutorials
+- 🤝 Open to internships, freelance work, and collaboration on interesting builds
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -29,8 +36,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-
 
 ### Backend & Database
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -45,7 +50,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -55,9 +61,24 @@
 
 </div>
 
+---
 
+## 🚧 Featured Projects
 
+<div align="center">
 
+<a href="https://github.com/deekshithreddykh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deekshithreddykh&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/deekshithreddykh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deekshithreddykh&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+> 💡 Replace `YOUR-REPO-1` / `YOUR-REPO-2` with your actual repository names to pin your best work here.
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -91,6 +112,8 @@
 <div align="center">
 
 ## 📬 Let's Build Something Together
+
+I'm always up for a good project, an interesting problem, or just talking tech. Reach out — I usually reply fast.
 
 <a href="https://deekshithreddykh.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1B2A4A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/></a>
 <a href="https://www.linkedin.com/in/deekshithreddy45/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
