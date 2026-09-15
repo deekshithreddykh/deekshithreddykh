@@ -19,9 +19,6 @@
 ## 🧭 About Me
 
 - 🎓 Pursuing a **Bachelor of Computer Applications (BCA)** at Vaisiri Institute of Management & Technology
-- 💻 Full stack developer working across **Python, JavaScript, and Java** ecosystems
-- 🤖 Currently building small **Machine Learning models** and exploring computer vision with **OpenCV**
-- 🌱 Sharpening skills in **AI, Cybersecurity, and system design**
 - 🚀 Focused on shipping real, end-to-end projects — not just tutorials
 - 🤝 Open to internships, freelance work, and collaboration on interesting builds
 
@@ -63,22 +60,8 @@
 
 ---
 
-## 🚧 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/deekshithreddykh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deekshithreddykh&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/deekshithreddykh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deekshithreddykh&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-> 💡 Replace `YOUR-REPO-1` / `YOUR-REPO-2` with your actual repository names to pin your best work here.
-
----
 
 ## 📊 GitHub Analytics
 
